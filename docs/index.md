@@ -9,12 +9,12 @@ Guide on how to navigate BoilerCord, the hottest social media app!
 
 ## Login GUI
 
-![Sample Login GUI](../docs/img/loginGUI.png)
+![Sample Login GUI](/img/loginGUI.png)
 
 ## Chats and Messages
 
 [insert image]
 
-## Adding, Searching, and Blockingpwd
+## Adding, Searching, and Blocking
 
 [insert image]
